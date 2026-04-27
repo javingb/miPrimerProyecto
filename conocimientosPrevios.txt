@@ -1,2 +1,3 @@
 Conocimientos previos:
     - Bases de datos, ORACLE, SQL/SERVER.
+    - C++ y Java
