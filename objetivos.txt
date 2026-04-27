@@ -1,4 +1,5 @@
 Objetivos Máster Fullstack UNIR
     - Aprender y aplicar tecnologías modernas de Frontend como Angular.
     - Desarrollar habilidades sólidas de Backend utilizando entornos como Node.js.
-    - Profundizar y perfeccionar los conocimientos previos de programación y lógica.
+    - Profundizar y perfeccionar los conocimientos previos de programación y lógica.    
+    - Adquirir las competencias necesarias para trabajar profesionalmente como Fullstack Developer.
