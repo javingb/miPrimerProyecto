@@ -1,1 +1,2 @@
 Objetivos Máster Fullstack UNIR
+    - Aprender y aplicar tecnologías modernas de Frontend como Angular.
